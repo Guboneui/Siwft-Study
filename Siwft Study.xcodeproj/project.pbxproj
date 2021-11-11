@@ -34,6 +34,7 @@
 		2C7B93A1273AEBAB0027C7C9 /* Day_08.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_08.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2C7B93A2273AECF10027C7C9 /* Day_09.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_09.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2C8A0183273C577400DFDE0E /* Day_10.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_10.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		2C8A0184273D88A100DFDE0E /* Day_11.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_11.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +70,7 @@
 				2C7B938427395F020027C7C9 /* AppDelegate.swift */,
 				2C7B938627395F020027C7C9 /* SceneDelegate.swift */,
 				2C7B938827395F020027C7C9 /* ViewController.swift */,
+				2C8A0184273D88A100DFDE0E /* Day_11.playground */,
 				2C8A0183273C577400DFDE0E /* Day_10.playground */,
 				2C7B93A2273AECF10027C7C9 /* Day_09.playground */,
 				2C7B93A1273AEBAB0027C7C9 /* Day_08.playground */,
