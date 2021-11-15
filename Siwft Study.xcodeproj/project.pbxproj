@@ -20,6 +20,7 @@
 		2C4FB208274183820001CFD1 /* Day_14.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_14.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2C4FB209274186B80001CFD1 /* Day_15.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_15.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2C4FB20A274187970001CFD1 /* Day_16.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_16.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		2C5883ED2742DC78009BAACA /* Day_17.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_17.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2C7B938127395F020027C7C9 /* Siwft Study.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Siwft Study.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C7B938427395F020027C7C9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2C7B938627395F020027C7C9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -75,25 +76,26 @@
 				2C7B938427395F020027C7C9 /* AppDelegate.swift */,
 				2C7B938627395F020027C7C9 /* SceneDelegate.swift */,
 				2C7B938827395F020027C7C9 /* ViewController.swift */,
-				2C4FB20A274187970001CFD1 /* Day_16.playground */,
-				2C4FB209274186B80001CFD1 /* Day_15.playground */,
-				2C4FB208274183820001CFD1 /* Day_14.playground */,
-				2C4FB207274151C70001CFD1 /* Day_13.playground */,
-				2C8A0185273EDB8900DFDE0E /* Day_12.playground */,
-				2C8A0184273D88A100DFDE0E /* Day_11.playground */,
-				2C8A0183273C577400DFDE0E /* Day_10.playground */,
-				2C7B93A2273AECF10027C7C9 /* Day_09.playground */,
-				2C7B93A1273AEBAB0027C7C9 /* Day_08.playground */,
-				2C7B93A0273AEB540027C7C9 /* Day_07.playground */,
-				2C7B939F273AE8960027C7C9 /* Day_06.playground */,
-				2C7B939E273AE6B50027C7C9 /* Day_05.playground */,
-				2C7B939D273AE3230027C7C9 /* Day_04.playground */,
-				2C7B939C273AE1180027C7C9 /* Day_03.playground */,
-				2C7B939B273ADFEC0027C7C9 /* Day_02.playground */,
 				2C7B9399273ADF070027C7C9 /* Day_01.playground */,
-				2C7B938A27395F020027C7C9 /* Main.storyboard */,
+				2C7B939B273ADFEC0027C7C9 /* Day_02.playground */,
+				2C7B939C273AE1180027C7C9 /* Day_03.playground */,
+				2C7B939D273AE3230027C7C9 /* Day_04.playground */,
+				2C7B939E273AE6B50027C7C9 /* Day_05.playground */,
+				2C7B939F273AE8960027C7C9 /* Day_06.playground */,
+				2C7B93A0273AEB540027C7C9 /* Day_07.playground */,
+				2C7B93A1273AEBAB0027C7C9 /* Day_08.playground */,
+				2C7B93A2273AECF10027C7C9 /* Day_09.playground */,
+				2C8A0183273C577400DFDE0E /* Day_10.playground */,
+				2C8A0184273D88A100DFDE0E /* Day_11.playground */,
+				2C8A0185273EDB8900DFDE0E /* Day_12.playground */,
+				2C4FB207274151C70001CFD1 /* Day_13.playground */,
+				2C4FB208274183820001CFD1 /* Day_14.playground */,
+				2C4FB209274186B80001CFD1 /* Day_15.playground */,
+				2C4FB20A274187970001CFD1 /* Day_16.playground */,
+				2C5883ED2742DC78009BAACA /* Day_17.playground */,
 				2C7B938D27395F030027C7C9 /* Assets.xcassets */,
 				2C7B938F27395F030027C7C9 /* LaunchScreen.storyboard */,
+				2C7B938A27395F020027C7C9 /* Main.storyboard */,
 				2C7B939227395F030027C7C9 /* Info.plist */,
 			);
 			path = "Siwft Study";
