@@ -22,6 +22,7 @@
 		2C4FB20A274187970001CFD1 /* Day_16.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_16.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2C5883ED2742DC78009BAACA /* Day_17.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_17.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2C5883EE2742DD87009BAACA /* Day_18.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_18.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		2C5883EF2742DE55009BAACA /* Day_19.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_19.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2C7B938127395F020027C7C9 /* Siwft Study.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Siwft Study.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C7B938427395F020027C7C9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2C7B938627395F020027C7C9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -96,6 +97,7 @@
 				2C5883ED2742DC78009BAACA /* Day_17.playground */,
 				2C5883EE2742DD87009BAACA /* Day_18.playground */,
 				2C7B938F27395F030027C7C9 /* LaunchScreen.storyboard */,
+				2C5883EF2742DE55009BAACA /* Day_19.playground */,
 				2C7B938D27395F030027C7C9 /* Assets.xcassets */,
 				2C7B938A27395F020027C7C9 /* Main.storyboard */,
 				2C7B939227395F030027C7C9 /* Info.plist */,
