@@ -49,6 +49,7 @@
 		2CE954B827442250001B6DC8 /* Day_23.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_23.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2CE954B927442349001B6DC8 /* Day_24.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_24.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2CE954BA274425F4001B6DC8 /* Day_25.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_25.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		2CE954BB27442757001B6DC8 /* Day_26.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_26.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +111,7 @@
 				2CE954B927442349001B6DC8 /* Day_24.playground */,
 				2CE954BA274425F4001B6DC8 /* Day_25.playground */,
 				2C7B938A27395F020027C7C9 /* Main.storyboard */,
+				2CE954BB27442757001B6DC8 /* Day_26.playground */,
 				2C7B938F27395F030027C7C9 /* LaunchScreen.storyboard */,
 				2C7B938D27395F030027C7C9 /* Assets.xcassets */,
 				2C7B939227395F030027C7C9 /* Info.plist */,
