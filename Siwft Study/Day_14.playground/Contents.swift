@@ -17,8 +17,13 @@ if let myBF = myFriends["BF"] {
 // playGround 에서는 if let을 통해서 확인한다.
 
 
+// 만약에 원하는 값이 없으면 default 값을 지정할 수 있음
 let myFriend = myFriends["hohoBF", default: "친구 없음"]
 print(myFriend)
+
+myFriends["BF"] = "보니보니"
+print(myFriends)
+
 
 //값 추가
 myFriends["hoho"] = "호호1"
@@ -49,5 +54,10 @@ print(myFriends)
 // 빈 딕셔너리 생성 방법
 let emptyDictionary = [String: Int]()
 let myEmpryDic = Dictionary<String, Int>()
+
+
+for item in myFriends {
+    print(item)
+}
 
 
