@@ -22,6 +22,7 @@
 		2C131BEF2747E5C200F71FCD /* Day_35.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_35.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2C131BF02747E7A100F71FCD /* Day_36.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_36.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2C2CA3E3274957B4002D0700 /* Day_37.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_37.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		2C2CA3E42749585C002D0700 /* Day_38.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_38.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2C2E773827468BEA0048DC10 /* Day_27.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_27.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2C2E773927468D720048DC10 /* Day_28.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_28.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2C2E773A2746933C0048DC10 /* Day_29.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_29.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -132,8 +133,9 @@
 				2C131BEE2747E52200F71FCD /* Day_34.playground */,
 				2C131BEF2747E5C200F71FCD /* Day_35.playground */,
 				2C131BF02747E7A100F71FCD /* Day_36.playground */,
-				2C7B938A27395F020027C7C9 /* Main.storyboard */,
 				2C2CA3E3274957B4002D0700 /* Day_37.playground */,
+				2C7B938A27395F020027C7C9 /* Main.storyboard */,
+				2C2CA3E42749585C002D0700 /* Day_38.playground */,
 				2C7B938F27395F030027C7C9 /* LaunchScreen.storyboard */,
 				2C7B939227395F030027C7C9 /* Info.plist */,
 				2C7B938D27395F030027C7C9 /* Assets.xcassets */,
