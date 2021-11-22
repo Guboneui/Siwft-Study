@@ -70,6 +70,7 @@
 		2CF2A896274BF17200C39F25 /* Day_44.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_44.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2CF2A897274BF32B00C39F25 /* Day_45.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_45.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2CF2A898274BF57100C39F25 /* Day_46.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_46.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		2CF2A899274BF74300C39F25 /* Day_47.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_47.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -149,10 +150,11 @@
 				2C2CA3E827495D03002D0700 /* Day_42.playground */,
 				2CF2A895274BDAD600C39F25 /* Day_43.playground */,
 				2CF2A896274BF17200C39F25 /* Day_44.playground */,
-				2C7B938F27395F030027C7C9 /* LaunchScreen.storyboard */,
 				2CF2A897274BF32B00C39F25 /* Day_45.playground */,
-				2C7B938A27395F020027C7C9 /* Main.storyboard */,
 				2CF2A898274BF57100C39F25 /* Day_46.playground */,
+				2C7B938F27395F030027C7C9 /* LaunchScreen.storyboard */,
+				2CF2A899274BF74300C39F25 /* Day_47.playground */,
+				2C7B938A27395F020027C7C9 /* Main.storyboard */,
 				2C7B939227395F030027C7C9 /* Info.plist */,
 				2C7B938D27395F030027C7C9 /* Assets.xcassets */,
 			);
