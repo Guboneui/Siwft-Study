@@ -1,5 +1,6 @@
 import UIKit
 
+
 // 0에서 2까지 -> 0, 1, 2
 let myFirstRange = 0...2
 
