@@ -1,7 +1,7 @@
 import UIKit
 
 
-// final 키워드로 다른 클래스가 상속받지 못함
+// final 키워드로 다른 클래스가 상속받지 못함 즉 상속이 불가능한 class를 만든다
 
 final class Friend {
     var name: String
@@ -19,7 +19,11 @@ final class Friend {
 //}
 
 
+
+
 let myFriend = Friend(name: "본의")
 print("myFriend = \(myFriend.name)")
 
+let test = Friend(name: "test")
+print(test)
 
