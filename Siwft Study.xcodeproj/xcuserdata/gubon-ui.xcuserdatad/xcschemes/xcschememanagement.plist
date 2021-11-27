@@ -1516,6 +1516,27 @@
 			<key>orderHint</key>
 			<integer>73</integer>
 		</dict>
+		<key>Day_68 (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>77</integer>
+		</dict>
+		<key>Day_68 (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>78</integer>
+		</dict>
+		<key>Day_68 (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>76</integer>
+		</dict>
 		<key>MyPlayground (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
