@@ -35,6 +35,7 @@
 		2C23C4472751E9EF0082136B /* Day_63.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_63.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2C23C448275263250082136B /* Day_65.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_65.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2C23C449275265370082136B /* Day_66.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_66.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		2C23C44A2752681D0082136B /* Day_67.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_67.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2C2CA3E3274957B4002D0700 /* Day_37.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_37.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2C2CA3E42749585C002D0700 /* Day_38.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_38.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2C2CA3E527495A43002D0700 /* Day_39.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_39.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -190,9 +191,10 @@
 				2C23C4472751E9EF0082136B /* Day_63.playground */,
 				2C23C4462751E8430082136B /* Day_64.playground */,
 				2C23C448275263250082136B /* Day_65.playground */,
-				2C7B938F27395F030027C7C9 /* LaunchScreen.storyboard */,
 				2C23C449275265370082136B /* Day_66.playground */,
 				2C7B938A27395F020027C7C9 /* Main.storyboard */,
+				2C23C44A2752681D0082136B /* Day_67.playground */,
+				2C7B938F27395F030027C7C9 /* LaunchScreen.storyboard */,
 				2C7B939227395F030027C7C9 /* Info.plist */,
 				2C7B938D27395F030027C7C9 /* Assets.xcassets */,
 			);
