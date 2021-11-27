@@ -22,8 +22,21 @@ things.append(Pet(name: "댕댕이", kind: "강이지"))
 
 things.append({(name: String) -> String in "안녕 친구들 \(name)"})
 
+let sayHi: (String, String) -> String = { (title: String, name: String) -> String in
+    return "안녕 \(title) \(name)"
+    
+}
+
+things.append(sayHi("aaa", "bbb"))
 let test = things[7]
 print(test)
+
+let a = "a"
+let b = "b'"
+
+things.forEach {
+    print($0)
+}
 
 
 
