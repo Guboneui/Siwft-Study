@@ -54,6 +54,7 @@
 		2C2E773D274699430048DC10 /* Day_31.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_31.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2C3D53782753DB2400D62FEF /* Day_73.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_73.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2C3D53792753DC3900D62FEF /* Day_74.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_74.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		2C3D537A2753DDA000D62FEF /* Day_75.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_75.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2C4FB207274151C70001CFD1 /* Day_13.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_13.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2C4FB208274183820001CFD1 /* Day_14.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_14.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2C4FB209274186B80001CFD1 /* Day_15.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_15.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -206,8 +207,9 @@
 				2C23C44E27528B2D0082136B /* Day_71.playground */,
 				2C23C44F27528C070082136B /* Day_72.playground */,
 				2C3D53782753DB2400D62FEF /* Day_73.playground */,
-				2C7B938A27395F020027C7C9 /* Main.storyboard */,
 				2C3D53792753DC3900D62FEF /* Day_74.playground */,
+				2C7B938A27395F020027C7C9 /* Main.storyboard */,
+				2C3D537A2753DDA000D62FEF /* Day_75.playground */,
 				2C7B939227395F030027C7C9 /* Info.plist */,
 				2C7B938F27395F030027C7C9 /* LaunchScreen.storyboard */,
 				2C7B938D27395F030027C7C9 /* Assets.xcassets */,
