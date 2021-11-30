@@ -4,7 +4,7 @@ import UIKit
 // 배열처럼 중복으로 값을 넣을 수 없다
 // 아무리 넣어도 고유한 값들만 남음
 
-var myNumberSet = Set<Int>()
+var myNumberSet: Set<Int> = Set<Int>()
 myNumberSet.insert(1)
 myNumberSet.insert(2)
 myNumberSet.insert(3)
