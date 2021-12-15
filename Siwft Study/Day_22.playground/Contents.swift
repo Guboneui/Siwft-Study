@@ -3,6 +3,7 @@ import UIKit
 // 프로토콜 자체는 자신의 인스턴스를 만들지 못한다
 // 프로토콜을 임플리먼트하면 해당 프로토콜의 변수나, 메소드의 설정이 강제된다.
 // 프로토콜도 상속해서 사용이 가능하다
+// 프로토콜은 약속
 
 // 이름
 protocol Naming {
@@ -10,6 +11,21 @@ protocol Naming {
     var name: String {get set}
     func getName() -> String
 }
+
+protocol UserNotifiable: Naming {
+    
+}
+
+struct User: UserNotifiable {
+    var name: String
+    
+    func getName() -> String {
+        return "user name is: \(name)"
+    }
+    
+    
+}
+
 
 // 나이
 protocol AgeCountable {
@@ -35,4 +51,8 @@ struct MyFriend: Friendable {
 var myFriend = MyFriend(name: "철수", age: 19)
 myFriend.getName()
 myFriend.age
+
+
+var user = User(name: "본의")
+print(user.getName())
 
