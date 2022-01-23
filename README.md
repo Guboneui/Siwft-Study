@@ -60,5 +60,8 @@
 #### Day_55: 자료형 체크
 #### Day_56: 중첩 타입(nested type)
 #### Day_57: 프로토콜 옵셔널
+#### Day_58: isSubset
+#### Day_59: stride 제네릭 함수
+#### Day_60: 딕셔너리 반복문
 
 
